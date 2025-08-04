@@ -29,3 +29,27 @@ Final file with all data in an organized and simple way in Csv, Excel, Json form
 > These projects reflect my ability to automate web scraping workflows and deliver structured, usable datasets that can fuel decision-making, research, or business intelligence.
 
 ### Project Image
+
+![data cleaning](Project%20Image%20/py1.png)
+
+![data cleaning](Project%20Image%20/py2.png)
+
+![data cleaning](Project%20Image%20/py3.png)
+
+![data cleaning](Project%20Image%20/py4.png)
+
+![data cleaning](Project%20Image%20/py5.png)
+
+![data cleaning](Project%20Image%20/py6.png)
+
+![data cleaning](Project%20Image%20/py7.png)
+
+![data cleaning](Project%20Image%20/py8.png)
+
+![data cleaning](Project%20Image%20/py9.png)
+
+![data cleaning](Project%20Image%20/py10.png)
+
+![data cleaning](Project%20Image%20/py11.png)
+
+![data cleaning](Project%20Image%20/py12.png)
